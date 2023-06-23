@@ -2,6 +2,7 @@
 # JavaScript Study Contribution with Devs
 
 Welcome to the JavaScript Study Contribution project! This repository aims to facilitate collaborative learning and knowledge sharing among university students interested in JavaScript. By working together, we can enhance our understanding of JavaScript concepts and strengthen our coding skills.
+The repository can include documentation files that outline JavaScript best practices, coding conventions, and guidelines. These resources help learners understand industry-standard practices, improve code quality, and promote maintainable JavaScript codebases.
 
 ## Project Overview
 
