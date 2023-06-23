@@ -48,7 +48,7 @@ Here are some helpful resources to deepen your understanding of JavaScript:
 
 ## Communication
 
-We encourage open and transparent communication within the community. Feel free to join our Discord server [https://discord.gg/WqrnZDDPk6] to ask questions, share ideas, and collaborate with other students.
+We encourage open and transparent communication within the community. Feel free to join our Discord server [https://discord.gg/WqrnZDDPk6] and Instagram chat group [https://ig.me/j/Aba1bgNlg-YyYSHA/] to ask questions, share ideas, and collaborate with other students.
 
 Let's learn, code, and grow together with JavaScript!
 
